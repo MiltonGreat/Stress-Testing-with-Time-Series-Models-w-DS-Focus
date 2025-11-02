@@ -4,6 +4,8 @@ Traditional credit risk models assume stable environments — but stress testing
 
 This implementation demonstrates a comprehensive stress testing framework using statistical time-series models to quantify portfolio vulnerability under economic stress. The analysis exposes nonlinear fragility where small changes in unemployment have outsized impacts on delinquency in certain segments.
 
+<img width="905" height="440" alt="Time Series" src="https://github.com/user-attachments/assets/6f6053b6-ea96-4479-8d78-a51911537aad" />
+
 ## Architecture
 
 **TIER 1: PORTFOLIO FOUNDATIONS & RISK SEGMENTATION**
